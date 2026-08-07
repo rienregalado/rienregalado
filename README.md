@@ -1,14 +1,15 @@
 # Rien Regalado
 
 **Owner / Principal at [Nexarion Technologies, LLC](https://github.com/Nexarion-Technologies)**  
-Systems engineering, operational AI, workflow automation, API integration, and infrastructure operations.
+Enterprise applications, systems integration, operational AI, workflow automation, data governance, and infrastructure operations.
 
-I build practical systems that connect business operations, APIs, automation, data platforms, observability, and AI without surrendering control of security, evidence, or supportability.
+I build practical systems that connect business operations, applications, APIs, automation, data platforms, observability, and AI without surrendering control of security, evidence, or supportability.
 
-My background spans distributed IT operations, infrastructure modernization, Microsoft 365 and Azure administration, service integration, workflow orchestration, operational documentation, and field-facing technology. I previously supported technology operations across 25 locations, approximately 300 users, and roughly 1,000 endpoints. I am most useful where software, infrastructure, and real operating constraints collide.
+My background spans distributed IT operations, infrastructure modernization, Microsoft 365 and Azure administration, enterprise-application architecture, service integration, workflow orchestration, operational documentation, and field-facing technology. I previously supported technology operations across 25 locations, approximately 300 users, and roughly 1,000 endpoints while coordinating four internal technicians and three contractor groups. I am most useful where software, infrastructure, and real operating constraints collide.
 
 ## Current focus
 
+- **Enterprise applications:** application portfolios, ERP/CRM boundaries, source-of-truth ownership, data stewardship, integration roadmaps, and supportable operating models.
 - **Operational AI:** bounded context, source provenance, read-only defaults, structured outputs, evaluation, and human approval around consequential actions.
 - **Workflow engineering:** n8n orchestration, validation, retries, exception handling, evidence records, and supportable runbooks.
 - **API and service integration:** REST/JSON services, bridge patterns, authentication boundaries, health/readiness endpoints, metrics, and durable state.
@@ -22,6 +23,10 @@ My background spans distributed IT operations, infrastructure modernization, Mic
 Its **Keystone** operating model connects visibility, policy, secure platforms, automation, audit, resilience, and continuous improvement. The public description is intentionally high-level; private specifications, client environments, and implementation details remain private.
 
 ## Public engineering portfolio
+
+### [Enterprise Applications, Integration & Governance](portfolio/enterprise-applications-integration-governance.md)
+
+A sanitized case study connecting multi-site operations, application roadmaps, ERP/CRM architecture, integration engineering, data stewardship, vendor and leadership practices, and governed automation.
 
 ### [MCP Operations Context Demo](https://github.com/Nexarion-Technologies/mcp-operations-context-demo)
 
